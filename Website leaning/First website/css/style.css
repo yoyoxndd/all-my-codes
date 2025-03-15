@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(30, 25, 25);
+    margin: 0;
+}
+
+h1{
+    color:darkgoldenrod;
+    text-align: center;
+    font-family: sans;
+}
+
+.description{
+    background-color:rgba(255, 238, 0, 0.626);
+    width: fit-content;
+    color: rgb(49, 47, 47);
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px
+}
+
+.important{
+    position: absolute;
+    background-color: rgba(248, 0, 0, 0.594);
+    color:rgb(176, 171, 171);
+    margin-left: 21px;
+    bottom: 10px;
+}
+
+article {
+    text-align: center;
+    color: rgb(176, 171, 171);
+
+}
+
+a:hover{
+    background-color:cornflowerblue;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.link{
+    Color: rgb(12, 125, 206);
+}
+
+.goodbad{
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: center;
+    padding-left: 0;
+    list-style-position: inside;
+  }
+  
